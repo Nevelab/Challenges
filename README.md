@@ -28,7 +28,7 @@ In doing so you will have the capacity to unleash new and lasting solutions to t
 ## Insights and reports
 KPIs are imperative to your AI proof-of-concepts: we fully understand this. 
 Here's how we will leverage the set up of the projects submitted:
-- From team to code through a "lean startup" approach - taken in a broad sense - with a strong emphasis on design, user experience and continuous improvements of the product post launch.
-- From code to the team with a "lean software factory" approach, which uses a "lean software development" to bring together agile practices, continuous integration (CI/CD) and finally a "product" approach.
-- Help you deploy a perpetual loop and as an authentic organization in full synergy, around the products and services and the teams that build these products.
+- From <i>team to code</i> through a <b>"lean startup"</b> approach - taken in a broad sense - with a strong emphasis on design, user experience and continuous improvements of the product post launch.
+- From <i>code to the team</i> with a <b>"lean software factory"</b> approach, which uses a "lean software development" to bring together agile practices, continuous integration (CI/CD) and finally a "product" approach.
+- Help you deploy a <b>perpetual loop</b> and as an authentic organization in full synergy, around the products and services and the teams that build these products.
 
